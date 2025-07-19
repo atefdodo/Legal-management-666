@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "الشاشة الرئيسية",
+      "icon": "menu-icon icon-base ti tabler-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/company_documents",
+      "icon": "menu-icon icon-base ti tabler-file",
+      "name": "مستندات الشركة",
+      "slug": "pages-page-2"
+    },
+    {
+      "url": "/rental_contracts",
+      "icon": "menu-icon icon-base ti tabler-file",
+      "name": "عقود الايجار",
+      "slug": "pages-page-3"
+    }
+  ]
+}
